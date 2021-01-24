@@ -36,7 +36,7 @@ class AmavisConfig extends AmacubeAbstract
         'bypass_spam_checks' 			=> false,  	// bool
         'bypass_banned_checks' 			=> false,	// bool
         'bypass_header_checks' 			=> false,	// bool
-//        'spam_modifies_subj' 			=> false,  	// bool
+        'spam_modifies_subj' 			=> false,  	// bool
         'spam_tag_level' 				=> -999,    // float
         'spam_tag2_level' 				=> 7,       // float
         'spam_tag3_level' 				=> 7,      // float
