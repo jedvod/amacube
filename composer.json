@@ -23,12 +23,17 @@
             "name": "Troy Carpenter",
             "email": "troy@carpenter.cx",
             "role": "Developer"
+        },
+        {
+            "name": "Jed O'Donnell",
+            "email": "jed@jvod.online",
+            "role": "Developer"
         }
     ],	
     "repositories": [
         {
             "type": "composer",
-            "url": "https://github.com/troycarpenter/amacube/tree/development"
+            "url": "https://github.com/jedvod/amacube/tree/master"
         }
     ],
     "require": {
